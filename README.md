@@ -5,10 +5,6 @@ React Movie DB is fully responsive, interactive React application displaying som
   [1]: https://www.themoviedb.org/documentation/api
 
 
-## Live Demo
-* You can see the live site [Here](https://aaqibkhaan.github.io/reactMovieDB/)
-
-
 ### Running the ReactMovie DB
 * You can clone the repo
 * Install the [Node.js](https://nodejs.org/en/) in order to get `npm`
