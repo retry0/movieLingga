@@ -15,7 +15,7 @@
   "author": "linggaadi4nd@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "babel-register": "^6.26.0",
     "bootstrap": "^4.0.0-beta.3",
     "cors": "^2.8.4",
